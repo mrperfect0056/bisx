@@ -28,9 +28,9 @@ $ python2 bsix.py
 <br/>
 ...
 <br/>
-• TOOL USER : (knock me on facebook)
+• TOOL USER : (102030)
 <br/>
-• TOOL PASS : (knock me on facebook)
+• TOOL PASS : (102030)
 <br/>
 ....
 <br/>
