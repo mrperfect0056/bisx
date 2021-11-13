@@ -46,8 +46,8 @@ logo="""
 \033[1;32m
 --------------------------------------------------
                                 """
-cusr = "sunnyleonelovesbotolbaba"
-cpwd = "botolbabafucksunnyleone"
+cusr = "102030"
+cpwd = "102030"
 def u():
     os.system("clear")
     print(logo)
